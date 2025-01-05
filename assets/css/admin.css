@@ -1,0 +1,69 @@
+.arm-container {
+    margin: 20px 0;
+}
+
+.arm-resources-list {
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.arm-resource-form {
+    max-width: 500px;
+    margin: 20px 0;
+}
+
+.form-field {
+    margin-bottom: 15px;
+}
+
+.form-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.form-field input,
+.form-field select {
+    width: 100%;
+    padding: 8px;
+}
+
+.arm-error {
+    color: #dc3232;
+    padding: 10px;
+    margin: 10px 0;
+    background: #ffeaea;
+    border-left: 4px solid #dc3232;
+}
+
+.arm-success {
+    color: #46b450;
+    padding: 10px;
+    margin: 10px 0;
+    background: #ecf7ed;
+    border-left: 4px solid #46b450;
+}
+
+.arm-form-container {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.form-actions {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #eee;
+}
+
+.form-actions .button {
+    margin-right: 10px;
+}
+
+.arm-cancel {
+    color: #a00;
+}
