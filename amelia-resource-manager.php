@@ -4,7 +4,7 @@
  * Plugin URI:
  * Description: Gestione risorse condivise per Amelia Booking
  * Version: 1.0.0
- * Author: Il tuo nome
+ * Author: Sakara
  * Author URI:
  * Text Domain: amelia-resource-manager
  * Domain Path: /languages
